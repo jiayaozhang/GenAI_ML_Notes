@@ -9,7 +9,7 @@
   <img src="images/大模型技术栈.png" alt="大模型技术栈" style="width: 100%; height: auto; object-fit: cover; max-height: 400px;" />
 </div>
 
- 
+  
 
 ***RAG检索增强生成***
 
