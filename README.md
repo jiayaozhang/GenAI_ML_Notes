@@ -6,7 +6,7 @@
 
 
 <div style="text-align: center; overflow: hidden; max-width: 800px; margin: 0 auto;">
-  <img src="images/大模型技术栈.png" alt="大模型技术栈" style="width: 100%; height: auto; object-fit: cover; max-height: 400px;" />
+  <img src="images/大模型技术栈.png" alt="大模型技术栈" style="width: 100%; height: auto; object-fit: cover; max-height: 300px;" />
 </div>
 
   
@@ -15,7 +15,7 @@
 
 
 <div style="text-align: center; overflow: hidden; max-width: 800px; margin: 0 auto;">
-  <img src="images/大模型应用技术原理.png" alt="大模型应用技术原理" style="width: 100%; height: auto; object-fit: cover; max-height: 400px;" />
+  <img src="images/大模型应用技术原理.png" alt="大模型应用技术原理" style="width: 100%; height: auto; object-fit: cover; max-height: 300px;" />
 </div>
 
 
@@ -28,20 +28,20 @@
 * （四）解码加速
 
 <div style="text-align: center; overflow: hidden; max-width: 800px; margin: 0 auto;">
-  <img src="images/大模型推理优化策略.png" alt="大模型推理优化策略" style="width: 100%; height: auto; object-fit: cover; max-height: 400px;" />
+  <img src="images/大模型推理优化策略.png" alt="大模型推理优化策略" style="width: 100%; height: auto; object-fit: cover; max-height: 300px;" />
 </div>
 
 ***大模型参数高效微调（PEFT）***
 
 <div style="text-align: center; overflow: hidden; max-width: 800px; margin: 0 auto;">
-  <img src="images/大模型参数高效微调及扩展.png" alt="大模型参数高效微调及扩展" style="width: 100%; height: auto; object-fit: cover; max-height: 400px;" />
+  <img src="images/大模型参数高效微调及扩展.png" alt="大模型参数高效微调及扩展" style="width: 100%; height: auto; object-fit: cover; max-height: 300px;" />
 </div>
 
 
 ***大模型上下文扩展技术原理***
 
 <div style="text-align: center; overflow: hidden; max-width: 800px; margin: 0 auto;">
-  <img src="images/大模型参数高效微调及扩展1.png" alt="大模型参数高效微调及扩展1" style="width: 100%; height: auto; object-fit: cover; max-height: 400px;" />
+  <img src="images/大模型参数高效微调及扩展1.png" alt="大模型参数高效微调及扩展1" style="width: 100%; height: auto; object-fit: cover; max-height: 300px;" />
 </div>
 
 
